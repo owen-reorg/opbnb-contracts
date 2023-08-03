@@ -2,7 +2,7 @@
 pragma solidity ^0.8.15;
 
 import { Ownable } from "@openzeppelin/contracts/access/Ownable.sol";
-import { ClonesWithImmutableArgs } from "@cwia/ClonesWithImmutableArgs.sol";
+import { ClonesWithImmutableArgs } from "clones-with-immutable-args/src/ClonesWithImmutableArgs.sol";
 
 import { Claim } from "../libraries/DisputeTypes.sol";
 import { Hash } from "../libraries/DisputeTypes.sol";

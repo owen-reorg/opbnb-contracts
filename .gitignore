@@ -10,3 +10,5 @@ cache
 artifacts
 
 .idea
+cache_hardhat/
+forge-artifacts/
